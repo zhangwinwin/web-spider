@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Get all &lt;script> of the page and download them",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
